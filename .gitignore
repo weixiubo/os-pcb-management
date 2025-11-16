@@ -1,0 +1,20 @@
+# Rust 编译产物
+/target/
+**/*.rs.bk
+*.pdb
+
+# IDE 相关
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 调试文件
+*.log
+
+# 临时文件
+*.tmp
+*.bak
+修复说明.md
